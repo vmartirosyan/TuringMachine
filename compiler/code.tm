@@ -1,0 +1,17 @@
+while 1
+    go right
+if *
+    write 1
+    go right
+while 1
+    go right
+if E
+    go left
+if 1
+    write E
+    go left
+if 1
+    write E
+    go left
+while 1
+    go left
